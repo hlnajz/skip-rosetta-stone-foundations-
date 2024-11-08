@@ -1,0 +1,9 @@
+{
+  "person": "Your name",
+  "authorization": "",
+  "sessionToken": "",
+  "schoolName": "xxxxxxxx-yyyy-zzzz-wwww-ssssssssssss",
+  "unitsToComplete": [1, 2, 3],
+  "userId": "7 digits or more find them in tracking in network inspect",
+  "languageCode": "FRA"
+}
